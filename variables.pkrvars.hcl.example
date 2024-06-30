@@ -1,0 +1,6 @@
+proxmox_host     = 
+proxmox_username = 
+proxmox_password = 
+proxmox_node     = 
+template_file    = 
+ssh_password     = 
