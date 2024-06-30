@@ -1,6 +1,6 @@
-proxmox_host     = 
-proxmox_username = 
-proxmox_password = 
+proxmox_url      = 
+pm_api_username = 
+pm_token = 
 proxmox_node     = 
-template_file    = 
+ssh_username     = 
 ssh_password     = 
