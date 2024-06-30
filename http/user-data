@@ -22,11 +22,11 @@ autoinstall:
     package_upgrade: false
     timezone: Indonesia/Jakarta
     users:
-      - name: davea
+      - name: your_username
         groups: [adm, sudo]
         lock-passwd: false
         sudo: ALL=(ALL) NOPASSWD:ALL
         shell: /bin/bash
-        # passwd: jomblotai
+        passwd: jomblotai 
         ssh_authorized_keys:
           - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQD0TK8Yei3vY3iZc4kRPPb9/0fxu/JK5iEHmg5kImYKcpaWd//TiAcYrVv7qS8AzDupG/PSnt4+dnULBYraCHCt7w8mcI7Vhjxdg0nowtJ7VIng3UM/8qWoQNLuIcRJKc3SPauty9sxOTXrw0ok2HZFeFrZ3ssvmCy7GVbBiPmh7Djtm22RcODhoy126QrrHhlym3G6aWpZlpf53x0TiueDY8XMRbSwL/HkX+ksbIoz+TIPZn1yGW/4nBT0JZFuuWLO6acJf3hoCcG5xKQ/GeuGHMNe5RBka3DFurvx1jw5Q45Sxf5abYTryIxOPhIw6kD7vY+dJZJf2KhxgeEB1UhEgAYpVad05taVQpMBGFqLZZJq0c9KvkO3WGCwRlroeNNWYNLCnZMiDru/jFENtyKZon5B3DVdy8rJr6mVHupn7bwxk06vtUH0+5ARAzyAOE/WU9VW6xkSf/vGG9RLweRBMxHoe3VwPr/HvGrXL/XLVuahxyPi7eXb8me3QGC8wu0= davea@DV23-1
