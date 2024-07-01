@@ -1,4 +1,2 @@
 /variables.pkrvars.hcl
-
-# ignore the user-data file
-http/user-data
+/id_rsa
